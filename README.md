@@ -7,4 +7,4 @@
 <a href="https://github.com/umedatam.github.io/webfont_2018/webfont_sample_weight.html">デモページ</a>
 <br>
 <br>
-　<a href="#">→「Tips Note」の記事へ戻る</a>
+　<a href="https://www.tam-tam.co.jp/tipsnote/?p=16293&preview=1&_ppp=174f8c5e58">→「Tips Note」の記事へ戻る</a>
